@@ -15,4 +15,3 @@ google-api-python-client==1.7.8
 google-auth-httplib2==0.0.3
 google-auth-oauthlib==0.4.0
 hdfs==2.5.8
-mysql-connector-python==2.2.9
